@@ -1,2 +1,8 @@
-# Job-Portel
- 🏢 Job Insider - Your Gateway to Opportunities 🌟 Job Insider is my first-ever project where I’ve explored and learned a lot about web development and full-stack programming! 🚀 This job portal aims to bridge the gap between job seekers and recruiters efficiently.  📋 Key Features: 🔐 User Authentication:  Users can securely sign in through their Gmail accounts. Recruiters also have dedicated sign-in access. 📄 Resume Submission:  Job seekers can easily submit their resumes for their desired roles. ✅ Resume Approval System:  Recruiters can review and approve resumes based on qualifications and role requirements. 🛠️ Technologies Used: Frontend:  HTML CSS ReactJS JavaScript Backend:  Yet to be expanded further as the project progresses. 🚧 Current Status: The project is still in progress, with exciting updates planned! Future enhancements will include improved role management, notification systems, and more! ✨ This journey has been a tremendous learning experience, and I’m excited to keep growing this project. Contributions, feedback, and ideas are always welcome! 🎉
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
